@@ -56,6 +56,7 @@ I've had the pleasure of working on some exciting projects:
 ## Let's Connect!
 
 🌐 [LinkedIn](https://www.linkedin.com/in/chem-chikweze-81369a15b/)
+
 📧 [Email](mailto:cchiwez@u.rochester.edu)
 
 Feel free to reach out to me if you want to collaborate on exciting projects or just chat about tech!
