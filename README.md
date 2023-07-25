@@ -3,7 +3,6 @@
 
 
 
-## About Me
 
 I'm a highly motivated and results-driven Computer Science student with a passion for software engineering and machine learning. My journey in the world of technology has been filled with exciting projects and impactful experiences. I'm always eager to learn and explore new technologies, and I believe in the power of collaboration and innovation.
 
