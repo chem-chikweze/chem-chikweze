@@ -27,19 +27,6 @@ I'm proficient in a range of programming languages, web development, and data an
 - Data: SQL
 - Tools: GitHub, Mercurial
 
-## Experience
-
-### Software Engineering Intern at Meta Inc, Menlo Park, CA
-📆 May 2022 – August 2022
-
-- 🚀 Developed a simulator to monitor time passage and admin events in a Facebook Group feature, achieving a 10% reduction in debugging time, saving 2 hours per week for the engineering team.
-- 🧪 Wrote comprehensive unit tests, ensuring over 95% code coverage.
-- 🔒 Implemented privacy rules for restricted simulator access, minimizing unauthorized usage incidents by 99%.
-
-### Facebook University for Engineering, June 2021 - August 2021
-
-- 📱 Built clones of Instagram, Twitter, and Flixter.
-- 📚 Designed and developed a student course management and schedule software with a reward system to track project progress.
 
 ## Projects
 
