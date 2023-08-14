@@ -12,12 +12,6 @@ I'm a motivated and results-driven student with a passion for software engineeri
 🏫 University of Rochester, Rochester, NY  
 📅 Graduation: May 2024  
 
-### Relevant Coursework
-- Computer Architecture
-- Machine Learning
-- Data Structures and Algorithms
-- Data Mining
-
 ## Technical Skills
 
 I'm proficient in a range of programming languages, web development, and data analysis tools, including:
