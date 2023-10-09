@@ -16,7 +16,7 @@ I'm a motivated and results-driven student with a passion for software engineeri
 
 I'm proficient in a range of programming languages, web development, and data analysis tools, including:
 
-- Languages: Python, Java, Golang
+- Languages: Python, Java, Golang, C/C++
 - Web: React.js, Flask
 - Data: SQL
 - Tools: GitHub, Mercurial
